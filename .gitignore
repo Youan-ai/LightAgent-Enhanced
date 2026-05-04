@@ -1,4 +1,16 @@
+# ⚡ LightAgent-Enhanced
+
+Zero-dependency agent framework.
+
 __pycache__/
 *.pyc
-dist/
+*.pyo
 *.egg-info/
+dist/
+build/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
